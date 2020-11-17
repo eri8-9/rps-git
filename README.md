@@ -1,5 +1,7 @@
 # rps-git
 
+*Reload the page when you open the preview
+
 This project game called Rock, Paper and Scissors and is about given a winner trying to choose
 an option between rock, paper or scissors. The game work only 5 rounds. If the player have more
 victories than the computer, player wins, else player lose.
